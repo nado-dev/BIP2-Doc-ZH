@@ -6,7 +6,8 @@
   "devDependencies": {
     "@vuepress/plugin-active-header-links": "^1.9.9",
     "@vuepress/plugin-back-to-top": "^1.9.9",
-    "vuepress": "^1.9.9"
+    "vuepress": "^1.9.9",
+    "vuepress-plugin-mathjax": "^1.2.8"
   },
   "scripts": {
     "docs:dev": "vuepress dev docs",
