@@ -8,8 +8,11 @@ let themeConfig = {
   sidebarDepth: 2,
   sidebar: [
     ['/', 'BIP2中文文档'],
+    // ['/index', 'BIP2中文文档'],
     ['/introduction', '开始'],
-    ['/bip2_language', 'BIP2语言']
+    ['/bip2_language', 'BIP2语言'],
+    ['/compiler_and_engine_presentation', '编译器和引擎概述'],
+    ['/full_grammar',"BIP2完整语法"]
   ],
   nav: [
     {text: 'BIP2 Document', link: 'https://www-verimag.imag.fr/TOOLS/DCS/bip/doc/latest/html/index.html'}
