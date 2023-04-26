@@ -17,7 +17,7 @@ BIP2官方文档请访问：[https://www-verimag.imag.fr/TOOLS/DCS/bip/doc/lates
 - [x] Introduction 
 - [x] BIP Language BIP2
 - [x] Compiler and Engines presentation
-- [ ] Installing & using the compiler
+- [x] Installing & using the compiler
 - [ ] More about C++ code generator
 - [ ] Installing & using the reference engine
 - [ ] Tutorial
