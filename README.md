@@ -20,5 +20,5 @@ BIP2官方文档请访问：[https://www-verimag.imag.fr/TOOLS/DCS/bip/doc/lates
 - [ ] Installing & using the reference engine
 - [ ] Tutorial
 - [x] Full BIP2 Grammar
-- [ ] Developper reference for Compiler
-- [ ] Developper reference for other parts (building, packaging)
+- [ ] Developer reference for Compiler
+- [ ] Developer reference for other parts (building, packaging)
