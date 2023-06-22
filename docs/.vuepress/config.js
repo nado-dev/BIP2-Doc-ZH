@@ -42,6 +42,7 @@ let plugins = [
 ]
 
 module.exports = {
+  base: '/BIP2-Doc-ZH/',
   host: 'localhost',
   title: 'BIP2中文文档',
   description: 'Chinese (zh-cn) translation of BIP2',
