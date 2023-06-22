@@ -6,6 +6,7 @@
 > 
 > maintained by Fang @nado-dev 
 
+主页 https://nado-dev.github.io/BIP2-Doc-ZH/
 ![BIP-pic](https://www-verimag.imag.fr/TOOLS/DCS/bip/doc/latest/html/_images/BIP.png)
 
 BIP2是一种用于复杂系统建模和编程的基于组件的语言。

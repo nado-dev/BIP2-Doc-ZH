@@ -2,9 +2,11 @@
 
 >  Chinese (zh-cn) translation of BIP2
 >
-> BIP2官方文档的中文版本个人整理
-> 
-> maintained by Fang @nado-dev 
+>  BIP2官方文档的中文版本个人整理
+>
+>  maintained by Fang @nado-dev 
+
+主页：https://nado-dev.github.io/BIP2-Doc-ZH/
 
 ![BIP-pic](https://www-verimag.imag.fr/TOOLS/DCS/bip/doc/latest/html/_images/BIP.png)
 
